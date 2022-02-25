@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some bodyes answer to a letter sent from no body in the city, to no body in the country written at the request of some body.</title>
+            <author>Some body.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60761</idno>
+            <idno type="STC">Wing S4475A</idno>
+            <idno type="STC">ESTC R13504</idno>
+            <idno type="EEBO-CITATION">11914791</idno>
+            <idno type="OCLC">ocm 11914791</idno>
+            <idno type="VID">50916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some bodyes answer to a letter sent from no body in the city, to no body in the country written at the request of some body.</title>
+                  <author>Some body.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Some Body, for Any Body,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Some Body.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50916:1" rendition="simple:additions"/>
+            <p>SOME BODYES ANSWER To a Letter ſent from No Body in the City, TO No Body in the Country.</p>
+            <p>Written at the Requeſt of SOME BODY.</p>
+            <p>Printed by <hi>Some Body,</hi> for <hi>Any Body,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:50916:2"/>
+            <pb n="3" facs="tcp:50916:2"/>
+            <head>
+               <hi>Some Bodyes</hi> ANSWER TO a LETTER, &amp;c.</head>
+            <opener>
+               <salute>Dear Brother,</salute>
+            </opener>
+            <p>IF I was ever able to feel the Pulſe, or examine the Conſtitution of the Countrey; I muſt needs tell you it is at preſent much Different from that of the City; our Plow-jobbing Ruſticks are very incredulous, and we cannot thruſt it into their thick Sculls, that ſuch a thin Airy Ficticious gentleman as your ſelf could ever be guilty of thoſe doughty At<g ref="char:EOLhyphen"/>chievments they Attribute to your Arms. No indeed my dear Brother, I cannot but with much grief ac<g ref="char:EOLhyphen"/>quaint you, that I more than ſhare with you in the Calumney; we have very few Poer or ſuch exqui<g ref="char:EOLhyphen"/>ſite ingenioſi's as can dandle a Chymera, play with a Thought, or muffle up a Fancy till it frights them, and then run away from it, and call others as clear-ſigh<g ref="char:EOLhyphen"/>ted as themſelves to admire the Prodigy; Their Courſe Faith wags not a ſtep beyond their Senſes, and they Love to Trace Actions, and their Actors, as they do Cony's from their firſt Track, Gradually along till at laſt they Arrive at their Holes, or Burrows; of which, hear a Remarkable Example.</p>
+            <pb n="4" facs="tcp:50916:3"/>
+            <p>A Proſperous Towns-man of ours Happening to live Next door to an envious, and unfortunate Neigh<g ref="char:EOLhyphen"/>bor, who knowing he had for divers years bin bleſt with a Plentiful Flock of ſheep, (from whoſe wealthy Backs he had often Shorn ſuch ponderous Fleeces as had inricht his Coffers) Reſolv'd with ſome others of his Fraternity, to deſtroy them, and bad by his Ma<g ref="char:EOLhyphen"/>licious induſtry Collected ſuch a Ravenou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> regimemt of Wolves, and Foxes, as had they been <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>air<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly let looſe, in one night might have devour'd them all; but being over-big with Univerſal Malice, and too impati<g ref="char:EOLhyphen"/>ent to time his deſign, and yet willing to whet his Appetite with an earneſt of his deſigned Vengeance, he eſpyed one Lamb among them more promiſing than any of the reſt and reſolv'd, that ſhould immediately fall, as an earneſt of the Deſtruction of the whole Flock. The impious Reſolution was eaſily effected, and when they had taken the Innocent Creature, and Strangled him, and towr'd and plum'd themſelves over the Pittifull Conqueſt, they Stuck a Knife into his Bo<g ref="char:EOLhyphen"/>dy, and threw him in that ſad Manner over a great ditch of water into another mans Field; where the owner in two or three days time found him; and af<g ref="char:EOLhyphen"/>ter he had Communicated the Treachery to his Neigh<g ref="char:EOLhyphen"/>bors, they preſently concluded, that the Lamb was too innocent, had it lain in his power to kill himſelf; that there being no blood ſeen near him, be muſt neceſſa<g ref="char:EOLhyphen"/>rily have been Butchered before either the Knife en<g ref="char:EOLhyphen"/>ter'd his Body, or he was brought to that Place; al<g ref="char:EOLhyphen"/>ſo finding his Fleece and Feet, dry, as if he had new<g ref="char:EOLhyphen"/>ly come out of the Sheep-ſold, I ſay, by all theſe Cir<g ref="char:EOLhyphen"/>cumſtances they unanimouſly concluded, that <hi>Some Body</hi> had deſpitefully kill'd him.</p>
+            <pb n="5" facs="tcp:50916:3"/>
+            <p>Alike Poſitive were they, when they heard of the Barbarous Death of that Loyal Knight, Sir <hi>E. G.</hi> They all cry'd out <hi>SOME BODY</hi> had Murder'd him; that <hi>SOME BODY</hi> ſhar'd <hi>Four Thouſand</hi> Pounds for the Fact — That <hi>SOME BODY</hi> offer'd Violence to his Dead Corps, that <hi>SOME BODY</hi> had much adoe to bend the Stubborn <hi>Proteſtant</hi> (who ſeem'd incorrigeable ever af<g ref="char:EOLhyphen"/>ter his d<gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>e) to a Complyance with a Papiſtical Se<g ref="char:EOLhyphen"/>dan; that <hi>SOME BODY</hi> Carried him as Butchers do Calves, before them on Horſe-back to <hi>Primroſe</hi> Hill, where <hi>SOME BODY</hi> Thruſt a Sword through his Life<g ref="char:EOLhyphen"/>leſs Body, Rob'd him of his Pocket-Book only, and left his Silver, Gold, Watch, Rings, <hi>&amp;c.</hi> in his Poc<g ref="char:EOLhyphen"/>kets, on purpoſe to perſwade <hi>EVERY BODY</hi> that <hi>NO BODY</hi> had Murder'd him</p>
+            <p>And with this beliefe, for a while, I hear they vici<g ref="char:EOLhyphen"/>ated your Credulous Town, but 'Ile aſſure you it ne<g ref="char:EOLhyphen"/>ver toucht the <hi>Piamater</hi> of a Rural Brain. Nothing would perſwade the Countrey but <hi>SOME BODY</hi> did it, and that <hi>SOME BODY</hi> knew of it, beſides thoſe <hi>EVE<g ref="char:EOLhyphen"/>RY BODY</hi> ſuſpects.</p>
+            <p>But to Clear you, and the Deceaſed, they Poſi<g ref="char:EOLhyphen"/>tively affirm'd, that it was alike impoſſible that it ſhould be done by <hi>NO BODY;</hi> as it was, that he could do it Himſelf; and therefore <hi>SOME BODY</hi> muſt be guilty. And to ſhew you their unparrelled inveteracy, Par<g ref="char:EOLhyphen"/>ticularly againſt me, although they were aſſur'd that <hi>SOME BODY</hi> was Apprehended, Arraign'd, and (as they ſay) deſervedly Condemned, and Executed, for that moſt Horrid and Inhumane Act; yet, as if I were Immortal, or had more Lives than a Cat, I am ſtill Summoned like a Conjurers Divel, to anſwer e<g ref="char:EOLhyphen"/>very
+<pb n="6" facs="tcp:50916:4"/>impertinent Interogatory; and remain anſwerable for every Extravagancy, or Villany, that is dayly Com<g ref="char:EOLhyphen"/>mitted.</p>
+            <p>Nay, theſe late Tranſactions have (to my great diſ<g ref="char:EOLhyphen"/>advantage) oblig'd the World to take a more ſevere inſpection into my Priſtine Miſdemeanors. The <hi>Spa<g ref="char:EOLhyphen"/>niſh Invaſion,</hi> the <hi>Gun-Power Plot,</hi> the <hi>French</hi> and <hi>I<g ref="char:EOLhyphen"/>riſh Maſſacre</hi> (ſay they) were Certainly Hatcht and Deſign'd by <hi>SOME BODY:</hi> if by the ſuper Annuated Hawk with a Tripple Hood, (who as one lately ob<g ref="char:EOLhyphen"/>ſerv'd, Succeſſively Degenerates into Kites and Buzzards) me thinks the Two laſt mentioned ſeaſons of Prey, might have Gorg'd him almoſt to a ſurfeit, when ſo many Thouſands of Pious and Moderate Chriſtians, were ſqueez'd under the gripes of his unmerciful Tallons.</p>
+            <p>Did the Articles of my Impeachment reſt here, yet I were within ſome glimering hopes of a Vindication, as having the Prerogative to be born of Remarkable Parents; there is <hi>SOME BODY</hi> of my Relations and Acquaintance, whoſe gilded Treachery paſſes for Loy<g ref="char:EOLhyphen"/>alty; who with an admirable dexterity Can ſet a <hi>Ge<g ref="char:EOLhyphen"/>neva</hi> look on a <hi>Roman</hi> Face, and ſeem any thing but what he is; from him I might then expect all the exemption immaginable: But alas, thoſe Inſolent, and Inquiſitive <hi>Hereticks</hi> ſtill continue the Fatal Queſt; and having had a Smatch of our Reeking Guilt, per<g ref="char:EOLhyphen"/>ſu'd us even in the Purſuit of our Royal Game, they follow us to <hi>Windſor,</hi> and though we went thence with a full Cry to <hi>New-Market,</hi> they Croſt our Way and Spoil'd our Sport,
+<q>
+                  <l>Who otherwiſe in feirce and low'd Carreer</l>
+                  <l>Had <hi>Caeſar</hi> fal'n, ere he had fal'n his Deer.</l>
+               </q>
+               <pb n="7" facs="tcp:50916:4"/>when this came to be diſcours'd on in Coffee Houſes and Taverns, every one could Whiſper that <hi>SOME BODY Would</hi> have done it; and indeed my Friend, <hi>SOME BODY</hi> has bin fairly examined, and as fairly Truſt Up about it, though by the ſubtle inſinuators of <hi>SOME BODY,</hi> the Implicit Zealots, as you very well remarked, equivocated their Necks into Halters, and by a Fatal Precipitation of the <hi>Tyburnian Jennet</hi> foo<g ref="char:EOLhyphen"/>liſhly adventur'd their Everlaſting Bliſs.</p>
+            <p>But ſince this, we have bin buſied with nimble Re<g ref="char:EOLhyphen"/>volutions, the Diſſolution of the laſt Parliament much heightened our Expectations; Although we could hard<g ref="char:EOLhyphen"/>ly ſqueez in ſufficient Intereſt to Diſappoint their Sciſ<g ref="char:EOLhyphen"/>matical Elections; yet we have not fail'd, as far as in us lay, in our continual Itinerations through every Cit<g ref="char:EOLhyphen"/>ty, Town or Village, to aſperſe the moſt remarka<g ref="char:EOLhyphen"/>ble of the Members of Both Houſes as great <hi>Courti<g ref="char:EOLhyphen"/>ers,</hi> and Friends to <hi>France,</hi> &amp;c. Next, we make it our Dayly buſineſs to obſtruct the Raiſing of Mony, for Nati<g ref="char:EOLhyphen"/>onall uſes, by Whiſpering ſuch Unreaſonable de<g ref="char:EOLhyphen"/>mands as cannot be granted without a palpable breach of Royal Prerogatives: <hi>Thirdly,</hi> we rub up forgetfull Epiſcopals with the Fair pretences uſed about <hi>Forty One,</hi> and by Confidently affirming, there is no ſuch thing as a Plot, give them reaſons to fear the Serpentine <hi>Rump</hi> is again joyn'd to its Fulſome Body; and having almoſt theſe Twenty years Silently recruited under the in<g ref="char:EOLhyphen"/>dulgent Beams of a Merciful Monarch, intend now, to Relaps into their former Rebellion.</p>
+            <p>By ſuch Subtleties as theſe, we thought to have ſet <hi>Caeſar</hi> and his <hi>Senate</hi> at Variance, and have introdu<g ref="char:EOLhyphen"/>ced <hi>Some body,</hi> who under pretence of taking up the
+<pb n="8" facs="tcp:50916:5"/>Quarrel, (like the Kite in the Fable) ſhould have Snatcht up both the Warriers. But theſe our Expecta<g ref="char:EOLhyphen"/>tions are now utterly Fruſtrated; though the Difficul<g ref="char:EOLhyphen"/>ty in pitching on a <hi>Speaker,</hi> ſomewhat reviv'd our Dying Hopes; we lately heard our Old Friend — is like<g ref="char:EOLhyphen"/>ly after all his <hi>Eloquence,</hi> to be Crowded into Lim<g ref="char:EOLhyphen"/>bo, as our Immortal C. was to Tyburn, Though both of them might have been mach more welcome to <hi>Some body.</hi> —</p>
+            <p>To Conclude, if we may Credit the diſcours of the Country, the King and Parliament go on hand in hand, and are in all probability likely ſo to do; But if they ſhould differ about Trifles, waſt their little time for preparation againſt Forraign Enemies in a needle Debate of Prerogatives and Priviledges, or prefer private Agrievances, before publick Com<g ref="char:EOLhyphen"/>plaints; I will not ſay who will have greateſt reaſon to Repent it, though I could name.</p>
+            <closer>
+               <signed>Some Body.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
